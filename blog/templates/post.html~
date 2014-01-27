@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>{{ single_post.title }}</h2>
+  <ul>
+    <p><em>{{ single_post.created_at }}</em></p>
+    <p>{{ single_post.content }}</p>
+    <br />
+  </ul>
+  <p>Udah baca nya? Balik ke <a href="/blog">Home</a>.<br />
+{% endblock %}
