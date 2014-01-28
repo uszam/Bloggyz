@@ -6,7 +6,7 @@ Bloggyz : A simple Blog App, written in Python.
 
 # Changelog
 
-> V 1.1 (Jan-28-2014)
+> v 1.1 (Jan-28-2014)
 Minor bugfixes
 
 
@@ -20,4 +20,4 @@ Minor bugfixes
 This app is still very basic. WE still have a lot work to do  ;)
 
 
-# under heavy contruction!
+# Under heavy contruction!
